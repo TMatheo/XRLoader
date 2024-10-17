@@ -1,0 +1,8 @@
+C:\Users\Biscuit\Documents\GitHub\XRLoader\XRLoader\bin\Debug\XRLoader.dll
+C:\Users\Biscuit\Documents\GitHub\XRLoader\XRLoader\bin\Debug\XRLoader.pdb
+C:\Users\Biscuit\Documents\GitHub\XRLoader\XRLoader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Biscuit\Documents\GitHub\XRLoader\XRLoader\obj\Debug\XRLoader.csproj.AssemblyReference.cache
+C:\Users\Biscuit\Documents\GitHub\XRLoader\XRLoader\obj\Debug\XRLoader.csproj.CoreCompileInputs.cache
+C:\Users\Biscuit\Documents\GitHub\XRLoader\XRLoader\obj\Debug\XRLoader.csproj.Up2Date
+C:\Users\Biscuit\Documents\GitHub\XRLoader\XRLoader\obj\Debug\XRLoader.dll
+C:\Users\Biscuit\Documents\GitHub\XRLoader\XRLoader\obj\Debug\XRLoader.pdb
