@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\",
+  "WorkspaceRootPath": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|c:\\users\\biscuit\\documents\\github\\xrloader\\xrloader\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|c:\\users\\biscuit\\documents\\github\\xrloader\\xrloader\\xrloader\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|solutionrelative:xrloader\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|c:\\users\\biscuit\\documents\\github\\xrloader\\xrloader\\consoleutils\\consola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|c:\\users\\biscuit\\documents\\github\\xrloader\\xrloader\\xrloader\\utils\\checkers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|solutionrelative:xrloader\\utils\\checkers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\xrloader\\unitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|solutionrelative:xrloader\\unitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\xrloader\\consoleutils\\consola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|solutionrelative:xrloader\\consoleutils\\consola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|c:\\users\\biscuit\\documents\\github\\xrloader\\xrloader\\modmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\xrloader\\modmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|solutionrelative:xrloader\\modmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|c:\\users\\biscuit\\documents\\github\\xrloader\\xrloader\\unitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|solutionrelative:xrloader\\unitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Checkers.cs",
+              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\Utils\\Checkers.cs",
+              "RelativeDocumentMoniker": "XRLoader\\Utils\\Checkers.cs",
+              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\Utils\\Checkers.cs",
+              "RelativeToolTip": "XRLoader\\Utils\\Checkers.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:15:45.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Consola.cs",
-              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\ConsoleUtils\\Consola.cs",
+              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\ConsoleUtils\\Consola.cs",
               "RelativeDocumentMoniker": "XRLoader\\ConsoleUtils\\Consola.cs",
-              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\ConsoleUtils\\Consola.cs",
+              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\ConsoleUtils\\Consola.cs",
               "RelativeToolTip": "XRLoader\\ConsoleUtils\\Consola.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T01:59:58.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ModManager.cs",
-              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\ModManager.cs",
+              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\ModManager.cs",
               "RelativeDocumentMoniker": "XRLoader\\ModManager.cs",
-              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\ModManager.cs",
+              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\ModManager.cs",
               "RelativeToolTip": "XRLoader\\ModManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,11 +73,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UnityManager.cs",
-              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\UnityManager.cs",
+              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\UnityManager.cs",
               "RelativeDocumentMoniker": "XRLoader\\UnityManager.cs",
-              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\UnityManager.cs",
+              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\UnityManager.cs",
               "RelativeToolTip": "XRLoader\\UnityManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +88,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\Main.cs",
+              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\Main.cs",
               "RelativeDocumentMoniker": "XRLoader\\Main.cs",
-              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\Main.cs",
+              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\Main.cs",
               "RelativeToolTip": "XRLoader\\Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T01:51:43.819Z",
               "EditorCaption": ""

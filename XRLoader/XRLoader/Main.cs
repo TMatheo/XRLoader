@@ -1,5 +1,6 @@
 ﻿using XRLoader;
 using XRLoader.ConsoleUtils;
+using XRLoader.Utils;
 
 namespace Loader
 {
@@ -10,7 +11,7 @@ namespace Loader
             Consola.Alloc();
             Consola.ShowLogo();
             ConsoleLog.Log("Starting... ");
-            //UnityManager.LoadAllUnityDlls("Human_Data\\Managed");
+            Checkers.Main();
             ModManager.CheckFolder();
             ModManager.LoadMods();
         }
