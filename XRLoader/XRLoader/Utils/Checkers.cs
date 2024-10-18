@@ -12,11 +12,13 @@ namespace XRLoader.Utils
 
             if (currentProcessName.Equals("AmongUs", StringComparison.OrdinalIgnoreCase))
             {
-                ConsoleLog.Log("The current process is: AmongUs");
+                ConsoleLog.Log("Still working on it sorry...");
+                Console.ReadKey();
+                Process.GetCurrentProcess().Kill();
             }
             else if (currentProcessName.Equals("Human", StringComparison.OrdinalIgnoreCase))
             {
-                ConsoleLog.Log("The current process is: Human");
+                UnityManager.LoadAllUnityDlls("Human_Data/Managed");
             }
             else
             {

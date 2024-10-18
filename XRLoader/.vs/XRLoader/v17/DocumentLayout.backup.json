@@ -3,24 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|c:\\users\\biscuit\\documents\\github\\xrloader\\xrloader\\xrloader\\checkforgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|solutionrelative:xrloader\\checkforgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B9760EA-CA5F-428D-A24B-21916BA90A71}|..\\Human Fall Flat - TestMod\\Human Fall Flat - TestMod.csproj|c:\\users\\biscuit\\documents\\github\\xrloader\\human fall flat - testmod\\hacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|c:\\users\\biscuit\\documents\\github\\xrloader\\xrloader\\xrloader\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|solutionrelative:xrloader\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\xrloader\\consoleutils\\consola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|solutionrelative:xrloader\\consoleutils\\consola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\xrloader\\modmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|solutionrelative:xrloader\\modmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\xrloader\\unitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{451416E8-4BF1-4EA0-92AB-E60FE10F2F49}|XRLoader\\XRLoader.csproj|solutionrelative:xrloader\\unitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B9760EA-CA5F-428D-A24B-21916BA90A71}|..\\Human Fall Flat - TestMod\\Human Fall Flat - TestMod.csproj|c:\\users\\biscuit\\documents\\github\\xrloader\\human fall flat - testmod\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +21,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CheckForGame.cs",
-              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\CheckForGame.cs",
-              "RelativeDocumentMoniker": "XRLoader\\CheckForGame.cs",
-              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\CheckForGame.cs*",
-              "RelativeToolTip": "XRLoader\\CheckForGame.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Title": "Hacks.cs",
+              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\Human Fall Flat - TestMod\\Hacks.cs",
+              "RelativeDocumentMoniker": "..\\Human Fall Flat - TestMod\\Hacks.cs",
+              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\Human Fall Flat - TestMod\\Hacks.cs",
+              "RelativeToolTip": "..\\Human Fall Flat - TestMod\\Hacks.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:03:48.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Consola.cs",
-              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\ConsoleUtils\\Consola.cs",
-              "RelativeDocumentMoniker": "XRLoader\\ConsoleUtils\\Consola.cs",
-              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\ConsoleUtils\\Consola.cs",
-              "RelativeToolTip": "XRLoader\\ConsoleUtils\\Consola.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:59:58.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ModManager.cs",
-              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\ModManager.cs",
-              "RelativeDocumentMoniker": "XRLoader\\ModManager.cs",
-              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\ModManager.cs",
-              "RelativeToolTip": "XRLoader\\ModManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:59:01.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnityManager.cs",
-              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\UnityManager.cs",
-              "RelativeDocumentMoniker": "XRLoader\\UnityManager.cs",
-              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\UnityManager.cs",
-              "RelativeToolTip": "XRLoader\\UnityManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:58:32.506Z",
+              "WhenOpened": "2024-10-18T14:18:14.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\Main.cs",
-              "RelativeDocumentMoniker": "XRLoader\\Main.cs",
-              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\XRLoader\\XRLoader\\Main.cs",
-              "RelativeToolTip": "XRLoader\\Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\Human Fall Flat - TestMod\\Test.cs",
+              "RelativeDocumentMoniker": "..\\Human Fall Flat - TestMod\\Test.cs",
+              "ToolTip": "C:\\Users\\Biscuit\\Documents\\GitHub\\XRLoader\\Human Fall Flat - TestMod\\Test.cs",
+              "RelativeToolTip": "..\\Human Fall Flat - TestMod\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:51:43.819Z",
+              "WhenOpened": "2024-10-18T14:17:12.266Z",
               "EditorCaption": ""
             }
           ]
