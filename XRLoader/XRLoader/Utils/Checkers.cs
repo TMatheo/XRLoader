@@ -10,11 +10,9 @@ namespace XRLoader.Utils
         {
             string currentProcessName = Process.GetCurrentProcess().ProcessName;
 
-            if (currentProcessName.Equals("AmongUs", StringComparison.OrdinalIgnoreCase))
+            if (currentProcessName.Equals("1v1_LOL", StringComparison.OrdinalIgnoreCase))
             {
-                ConsoleLog.Log("Still working on it sorry...");
-                Console.ReadKey();
-                Process.GetCurrentProcess().Kill();
+                UnityManager.LoadAllUnityDlls("1v1_LOL_Data/Managed");
             }
             else if (currentProcessName.Equals("Human", StringComparison.OrdinalIgnoreCase))
             {
